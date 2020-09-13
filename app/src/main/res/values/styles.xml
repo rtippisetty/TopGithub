@@ -1,11 +1,68 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@android:color/white</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+    </style>
+
+    <style name="username" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/descriptionColor</item>
+        <item name="android:textSize">@dimen/text_size_12dp</item>
+    </style>
+
+    <style name="Name" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/descriptionColor</item>
+        <item name="android:textSize">@dimen/text_size_15dp</item>
+    </style>
+
+    <style name="Description" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/pingfang_sc_regular</item>
+        <item name="android:textColor">@color/descriptionColor</item>
+        <item name="android:textSize">@dimen/text_size_12dp</item>
+    </style>
+
+    <style name="ItemDesc" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/descriptionColor</item>
+        <item name="android:textSize">@dimen/text_size_12dp</item>
+    </style>
+
+    <style name="RetryButton" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/text_size_15dp</item>
+        <item name="android:textColor">@color/retryTextColor</item>
+        <item name="android:background">@drawable/round_button</item>
+    </style>
+
+    <style name="ErrorTitle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textColor">@color/errorTitleColor</item>
+        <item name="android:textSize">@dimen/text_size_18dp</item>
+    </style>
+
+    <style name="ErrorDesc" parent="TextAppearance.AppCompat.Display1">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/errorDescColor</item>
+        <item name="android:textSize">@dimen/text_size_15dp</item>
+    </style>
+
+    <style name="CustomToolBar" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+    <style name="ToolBarTitle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/toolBarTextColor</item>
+        <item name="android:textSize">@dimen/text_size_21dp</item>
     </style>
 
 </resources>

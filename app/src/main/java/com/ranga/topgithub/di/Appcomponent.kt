@@ -1,7 +1,7 @@
 package com.ranga.topgithub.di
 
 import android.content.Context
-import com.ranga.topgithub.BaseApplication
+import com.ranga.topgithub.TopGitReposApplication
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.AndroidInjector
@@ -11,10 +11,14 @@ import javax.inject.Singleton
 @Singleton
 @Component(
     modules = [
-        AndroidSupportInjectionModule::class
+        ApplicationModule::class,
+        AndroidSupportInjectionModule::class,
+        NetworkModule::class,
+        ReposModule::class,
+        ViewModelModule::class
     ]
 )
-interface AppComponent: AndroidInjector<BaseApplication> {
+interface AppComponent: AndroidInjector<TopGitReposApplication> {
 
     @Component.Factory
     interface Factory{

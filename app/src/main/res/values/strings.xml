@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TopGithub</string>
+    <string name="author_name">Author Name</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="searchByName">Search Repos by Name</string>
+
 </resources>

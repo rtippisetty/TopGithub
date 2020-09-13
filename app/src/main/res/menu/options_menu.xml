@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/searchByName"
+        android:title="@string/searchByName"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item
+        android:id="@+id/sortByName"
+        android:title="@string/sort_by_name"
+        app:showAsAction="never" />
+</menu>

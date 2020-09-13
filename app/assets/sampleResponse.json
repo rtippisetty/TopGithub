@@ -1,0 +1,277 @@
+[
+  {
+    "username": "hamelsmu",
+    "name": "Hamel Husain",
+    "url": "https://github.com/hamelsmu",
+    "avatar": "https://avatars1.githubusercontent.com/u/1483922",
+    "repo": {
+      "name": "code_search",
+      "description": "Code For Medium Article: \"How To Create Natural Language Semantic Search for Arbitrary Objects With Deep Learning\"",
+      "url": "https://github.com/hamelsmu/code_search"
+    }
+  },
+  {
+    "username": "borkdude",
+    "name": "Michiel Borkent",
+    "url": "https://github.com/borkdude",
+    "avatar": "https://avatars2.githubusercontent.com/u/284934",
+    "repo": {
+      "name": "babashka",
+      "description": "A Clojure babushka for the grey areas of Bash.",
+      "url": "https://github.com/borkdude/babashka"
+    }
+  },
+  {
+    "username": "cclauss",
+    "name": "Christian Clauss",
+    "url": "https://github.com/cclauss",
+    "avatar": "https://avatars1.githubusercontent.com/u/3709715",
+    "repo": {
+      "name": "Ten-lines-or-less",
+      "description": "Python scripts that are short but useful or interesting",
+      "url": "https://github.com/cclauss/Ten-lines-or-less"
+    }
+  },
+  {
+    "username": "markerikson",
+    "name": "Mark Erikson",
+    "url": "https://github.com/markerikson",
+    "avatar": "https://avatars3.githubusercontent.com/u/1128784",
+    "repo": {
+      "name": "react-redux-links",
+      "description": "Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+      "url": "https://github.com/markerikson/react-redux-links"
+    }
+  },
+  {
+    "username": "tanner0101",
+    "name": "Tanner",
+    "url": "https://github.com/tanner0101",
+    "avatar": "https://avatars3.githubusercontent.com/u/1342803",
+    "repo": {
+      "name": "activity-bar",
+      "description": "iOS 7 style progress bar for showing ogoing activity",
+      "url": "https://github.com/tanner0101/activity-bar"
+    }
+  },
+  {
+    "username": "ghostdogpr",
+    "name": "Pierre Ricadat",
+    "url": "https://github.com/ghostdogpr",
+    "avatar": "https://avatars1.githubusercontent.com/u/7413894",
+    "repo": {
+      "name": "caliban",
+      "description": "Functional GraphQL library for Scala",
+      "url": "https://github.com/ghostdogpr/caliban"
+    }
+  },
+  {
+    "username": "xtuc",
+    "name": "Sven Sauleau",
+    "url": "https://github.com/xtuc",
+    "avatar": "https://avatars3.githubusercontent.com/u/1493671",
+    "repo": {
+      "name": "webassemblyjs",
+      "description": "Toolchain for WebAssembly",
+      "url": "https://github.com/xtuc/webassemblyjs"
+    }
+  },
+  {
+    "username": "wcandillon",
+    "name": "William Candillon",
+    "url": "https://github.com/wcandillon",
+    "avatar": "https://avatars1.githubusercontent.com/u/306134",
+    "repo": {
+      "name": "can-it-be-done-in-react-native",
+      "description": "⚛️📺Projects from the “Can it be done in React Native?” YouTube series",
+      "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+    }
+  },
+  {
+    "username": "fatedier",
+    "name": "fatedier",
+    "url": "https://github.com/fatedier",
+    "avatar": "https://avatars1.githubusercontent.com/u/7346661",
+    "repo": {
+      "name": "frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "url": "https://github.com/fatedier/frp"
+    }
+  },
+  {
+    "username": "surmon-china",
+    "name": "Surmon",
+    "url": "https://github.com/surmon-china",
+    "avatar": "https://avatars2.githubusercontent.com/u/14019524",
+    "repo": {
+      "name": "vue-awesome-swiper\n@vuejs",
+      "description": "🏆 Swiper component for @vuejs",
+      "url": "https://github.com/surmon-china/vue-awesome-swiper"
+    }
+  },
+  {
+    "username": "yangshun",
+    "name": "Yangshun Tay",
+    "url": "https://github.com/yangshun",
+    "avatar": "https://avatars2.githubusercontent.com/u/1315101",
+    "repo": {
+      "name": "tech-interview-handbook",
+      "description": "💯 Materials to help you rock your next coding interview",
+      "url": "https://github.com/yangshun/tech-interview-handbook"
+    }
+  },
+  {
+    "username": "syl20bnr",
+    "name": "Sylvain Benner",
+    "url": "https://github.com/syl20bnr",
+    "avatar": "https://avatars3.githubusercontent.com/u/1243537",
+    "repo": {
+      "name": "spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "url": "https://github.com/syl20bnr/spacemacs"
+    }
+  },
+  {
+    "username": "geerlingguy",
+    "name": "Jeff Geerling",
+    "url": "https://github.com/geerlingguy",
+    "avatar": "https://avatars3.githubusercontent.com/u/481677",
+    "repo": {
+      "name": "mac-dev-playbook",
+      "description": "Mac setup and configuration via Ansible.",
+      "url": "https://github.com/geerlingguy/mac-dev-playbook"
+    }
+  },
+  {
+    "username": "JeffreySu",
+    "name": "Jeffrey Su",
+    "url": "https://github.com/JeffreySu",
+    "avatar": "https://avatars2.githubusercontent.com/u/2281927",
+    "repo": {
+      "name": "WeiXinMPSDK",
+      "description": "微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.",
+      "url": "https://github.com/JeffreySu/WeiXinMPSDK"
+    }
+  },
+  {
+    "username": "rwightman",
+    "name": "Ross Wightman",
+    "url": "https://github.com/rwightman",
+    "avatar": "https://avatars0.githubusercontent.com/u/5702664",
+    "repo": {
+      "name": "pytorch-image-models",
+      "description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more",
+      "url": "https://github.com/rwightman/pytorch-image-models"
+    }
+  },
+  {
+    "username": "rachelcarmena",
+    "name": "Rachel M. Carmena",
+    "url": "https://github.com/rachelcarmena",
+    "avatar": "https://avatars3.githubusercontent.com/u/22792183",
+    "repo": {
+      "name": "how-to-teach",
+      "description": "💡 Ideas to teach.",
+      "url": "https://github.com/rachelcarmena/how-to-teach"
+    }
+  },
+  {
+    "username": "streamich",
+    "name": "Vadim Dalecky",
+    "url": "https://github.com/streamich",
+    "avatar": "https://avatars1.githubusercontent.com/u/9773803",
+    "repo": {
+      "name": "react-use",
+      "description": "React Hooks — 👍",
+      "url": "https://github.com/streamich/react-use"
+    }
+  },
+  {
+    "username": "christianbundy",
+    "name": "Christian Bundy",
+    "url": "https://github.com/christianbundy",
+    "avatar": "https://avatars2.githubusercontent.com/u/537700",
+    "repo": {
+      "name": "spacegrey-iterm",
+      "description": "iTerm Spacegray",
+      "url": "https://github.com/christianbundy/spacegrey-iterm"
+    }
+  },
+  {
+    "username": "stephencelis",
+    "name": "Stephen Celis",
+    "url": "https://github.com/stephencelis",
+    "avatar": "https://avatars0.githubusercontent.com/u/658",
+    "repo": {
+      "name": "SQLite.swift",
+      "description": "A type-safe, Swift-language layer over SQLite3.",
+      "url": "https://github.com/stephencelis/SQLite.swift"
+    }
+  },
+  {
+    "username": "rvantonder",
+    "name": "Rijnard van Tonder",
+    "url": "https://github.com/rvantonder",
+    "avatar": "https://avatars2.githubusercontent.com/u/888624",
+    "repo": {
+      "name": "pentaquine",
+      "description": "5-way multiquine",
+      "url": "https://github.com/rvantonder/pentaquine"
+    }
+  },
+  {
+    "username": "betatim",
+    "name": "Tim Head",
+    "url": "https://github.com/betatim",
+    "avatar": "https://avatars0.githubusercontent.com/u/1448859",
+    "repo": {
+      "name": "openrefineder",
+      "description": "💠 + 📚 OpenRefine on Binder!",
+      "url": "https://github.com/betatim/openrefineder"
+    }
+  },
+  {
+    "username": "ScriptedAlchemy",
+    "name": "Zack Jackson",
+    "url": "https://github.com/ScriptedAlchemy",
+    "avatar": "https://avatars2.githubusercontent.com/u/25274700",
+    "repo": {
+      "name": "webpack-external-import",
+      "description": "Dynamically import modules from other webpack bundles. Painless code sharing between separate apps",
+      "url": "https://github.com/ScriptedAlchemy/webpack-external-import"
+    }
+  },
+  {
+    "username": "oleg-nenashev",
+    "name": "Oleg Nenashev",
+    "url": "https://github.com/oleg-nenashev",
+    "avatar": "https://avatars2.githubusercontent.com/u/3000480",
+    "repo": {
+      "name": "demo-jenkins-config-as-code",
+      "description": "Demo of Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts",
+      "url": "https://github.com/oleg-nenashev/demo-jenkins-config-as-code"
+    }
+  },
+  {
+    "username": "unknwon",
+    "name": "ᴜɴᴋɴᴡᴏɴ",
+    "url": "https://github.com/unknwon",
+    "avatar": "https://avatars1.githubusercontent.com/u/2946214",
+    "repo": {
+      "name": "the-way-to-go_ZH_CN",
+      "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+      "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+    }
+  },
+  {
+    "username": "Jocs",
+    "name": "Ran Luo",
+    "url": "https://github.com/Jocs",
+    "avatar": "https://avatars0.githubusercontent.com/u/9712830",
+    "repo": {
+      "name": "jocs.github.io",
+      "description": "💯Jocs 的个人博客，所有的文章都在 issues 里面",
+      "url": "https://github.com/Jocs/jocs.github.io"
+    }
+  }
+]
