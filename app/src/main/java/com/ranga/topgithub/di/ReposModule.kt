@@ -1,6 +1,6 @@
 package com.ranga.topgithub.di
 
-import com.ranga.topgithub.reposmodule.ui.RepoListActivity
+import com.ranga.topgithub.reposmodule.view.RepoListActivity
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

@@ -1,8 +1,7 @@
-package com.ranga.topgithub.data.source.remote
+package com.ranga.topgithub.data.remote
 
-import com.ranga.topgithub.data.source.Result
-import com.ranga.topgithub.data.network.GitReposService
-import com.ranga.topgithub.data.source.GitRepo
+import com.ranga.topgithub.data.model.GitReposRemoteResponse
+import com.ranga.topgithub.network.GitReposService
 import io.reactivex.Observable
 
 class GitReposRemoteDataSource(private val gitReposService: GitReposService) {

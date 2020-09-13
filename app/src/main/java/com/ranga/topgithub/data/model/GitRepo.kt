@@ -1,8 +1,7 @@
-package com.ranga.topgithub.data.source
+package com.ranga.topgithub.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.ranga.topgithub.data.source.remote.GitReposRemoteResponse
 
 /**
  * model class to hold git repo item details

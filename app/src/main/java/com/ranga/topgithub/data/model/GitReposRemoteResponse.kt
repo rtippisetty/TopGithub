@@ -1,4 +1,4 @@
-package com.ranga.topgithub.data.source.remote
+package com.ranga.topgithub.data.model
 
 import com.google.gson.annotations.SerializedName
 

@@ -8,7 +8,7 @@ import com.ranga.topgithub.BuildConfig
 import com.ranga.topgithub.R
 import com.ranga.topgithub.common.BASE_URL
 import com.ranga.topgithub.common.TIME_OUT_SEC
-import com.ranga.topgithub.data.network.GitReposService
+import com.ranga.topgithub.network.GitReposService
 import dagger.Module
 import dagger.Provides
 import okhttp3.OkHttpClient

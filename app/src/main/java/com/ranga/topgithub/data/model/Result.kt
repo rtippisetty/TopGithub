@@ -1,4 +1,4 @@
-package com.ranga.topgithub.data.source
+package com.ranga.topgithub.data.model
 
 /**
  * A generic class that holds a value with its loading status.

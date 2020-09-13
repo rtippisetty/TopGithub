@@ -1,12 +1,11 @@
-package com.ranga.topgithub.data.source.local
+package com.ranga.topgithub.data.local
 
-import com.ranga.topgithub.data.source.GitRepo
-import com.ranga.topgithub.data.source.Result
+import com.ranga.topgithub.data.local.db.GitReposDao
+import com.ranga.topgithub.data.model.GitRepo
+import com.ranga.topgithub.data.model.Result
 import io.reactivex.Observable
 
-class GitReposLocalDataSource internal constructor(
-    private val gitReposDao: GitReposDao
-) {
+class GitReposLocalDataSource internal constructor(private val gitReposDao: GitReposDao) {
 
     /**
      * fetch local git repo details

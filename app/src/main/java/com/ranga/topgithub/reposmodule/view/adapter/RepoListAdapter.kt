@@ -1,4 +1,4 @@
-package com.ranga.topgithub.reposmodule.adapter
+package com.ranga.topgithub.reposmodule.view.adapter
 
 import android.util.Log
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.ranga.topgithub.R
-import com.ranga.topgithub.data.source.GitRepo
+import com.ranga.topgithub.data.model.GitRepo
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.repo_item.view.*
 

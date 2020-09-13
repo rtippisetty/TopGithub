@@ -2,12 +2,12 @@ package com.ranga.topgithub.di
 
 import android.content.Context
 import androidx.room.Room
-import com.ranga.topgithub.data.network.GitReposService
-import com.ranga.topgithub.data.source.GitReposRepository
-import com.ranga.topgithub.data.source.IRepository
-import com.ranga.topgithub.data.source.local.GitReposDatabase
-import com.ranga.topgithub.data.source.local.GitReposLocalDataSource
-import com.ranga.topgithub.data.source.remote.GitReposRemoteDataSource
+import com.ranga.topgithub.network.GitReposService
+import com.ranga.topgithub.data.manager.GitReposRepository
+import com.ranga.topgithub.data.manager.IRepository
+import com.ranga.topgithub.data.local.db.GitReposDatabase
+import com.ranga.topgithub.data.local.GitReposLocalDataSource
+import com.ranga.topgithub.data.remote.GitReposRemoteDataSource
 import dagger.Binds
 import dagger.Module
 import dagger.Provides

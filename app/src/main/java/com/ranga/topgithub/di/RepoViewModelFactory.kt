@@ -2,7 +2,6 @@ package com.ranga.topgithub.di
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.ranga.topgithub.data.source.GitReposRepository
 import com.ranga.topgithub.reposmodule.viewmodel.RepoListViewModel
 import dagger.Binds
 import dagger.MapKey

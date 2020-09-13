@@ -1,7 +1,7 @@
-package com.ranga.topgithub.data.network
+package com.ranga.topgithub.network
 
 import com.ranga.topgithub.common.TopListPeriod
-import com.ranga.topgithub.data.source.remote.GitReposRemoteResponse
+import com.ranga.topgithub.data.model.GitReposRemoteResponse
 import io.reactivex.Observable
 import retrofit2.http.GET
 import retrofit2.http.Query

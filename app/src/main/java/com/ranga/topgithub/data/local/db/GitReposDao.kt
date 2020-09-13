@@ -1,7 +1,7 @@
-package com.ranga.topgithub.data.source.local
+package com.ranga.topgithub.data.local.db
 
 import androidx.room.*
-import com.ranga.topgithub.data.source.GitRepo
+import com.ranga.topgithub.data.model.GitRepo
 
 @Dao
 interface GitReposDao {

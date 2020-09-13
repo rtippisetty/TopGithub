@@ -1,7 +1,10 @@
-package com.ranga.topgithub.data.source
+package com.ranga.topgithub.data.manager
 
-import com.ranga.topgithub.data.source.local.GitReposLocalDataSource
-import com.ranga.topgithub.data.source.remote.GitReposRemoteDataSource
+import com.ranga.topgithub.data.local.GitReposLocalDataSource
+import com.ranga.topgithub.data.model.GitRepo
+import com.ranga.topgithub.data.model.Result
+import com.ranga.topgithub.data.model.succeeded
+import com.ranga.topgithub.data.remote.GitReposRemoteDataSource
 import com.ranga.topgithub.di.ApplicationModule.ReposLocalDataSource
 import com.ranga.topgithub.di.ApplicationModule.ReposRemoteDataSource
 import io.reactivex.Observable

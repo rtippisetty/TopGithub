@@ -1,4 +1,4 @@
-package com.ranga.topgithub.reposmodule.ui
+package com.ranga.topgithub.reposmodule.view
 
 import android.os.Bundle
 import android.util.Log
@@ -7,8 +7,8 @@ import android.view.MenuItem
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.ranga.topgithub.R
-import com.ranga.topgithub.data.source.Result
-import com.ranga.topgithub.reposmodule.adapter.RepoListAdapter
+import com.ranga.topgithub.data.model.Result
+import com.ranga.topgithub.reposmodule.view.adapter.RepoListAdapter
 import com.ranga.topgithub.reposmodule.viewmodel.RepoListViewModel
 import dagger.android.support.DaggerAppCompatActivity
 import kotlinx.android.synthetic.main.activity_repo_list.*
